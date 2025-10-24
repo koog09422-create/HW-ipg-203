@@ -1,0 +1,28 @@
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe.config
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.pdb
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.AssemblyReference.cache
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.CoreCompileInputs.cache
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.exe
+E:\F24\IPG203_TIC_F24\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.pdb
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.AssemblyReference.cache
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.exe.config
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.CoreCompileInputs.cache
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.exe
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.pdb
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe.config
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.pdb
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.Library.dll
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.Library.pdb
+E:\F24\Done\25_Hakam\9_IPG203_TIC_F24\VideoGameCharactersWithOOP\obj\Debug\VideoGam.DC064A80.Up2Date
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe.config
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.exe
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.pdb
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.Library.dll
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\bin\Debug\VideoGameCharactersWithOOP.Library.pdb
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.AssemblyReference.cache
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.csproj.CoreCompileInputs.cache
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\obj\Debug\VideoGam.DC064A80.Up2Date
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.exe
+D:\2_Business\Assignments&Projects_F24\Assignments\(TIC_IPG203)_Object Oriented Programming\TIC_IPG203_2\IPG203_TIC_F24\VideoGameCharactersWith\VideoGameCharactersWithOOP\obj\Debug\VideoGameCharactersWithOOP.pdb
